@@ -1,7 +1,6 @@
 ## Yunhao Li's homepage.
-```
-Master student in Computer Science.
-```
++ Master of Science in Computer Science, Courant, New York University
++ Bachalor of Engineering in the Department of Computer Science and Technology, Tsinghua University
 
 ### Techniques blog list
 + Comming soon.
